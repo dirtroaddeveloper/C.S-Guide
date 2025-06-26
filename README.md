@@ -14,7 +14,7 @@ Created from P1XTs path. Updated to add some stuff for me to do and to fit me mo
     - [Instructions:](#instructions)
   - [Tier 2 - Practice](#tier-2---practice)
     - [Goal](#goal-1)
-    - [Tier 2 - Computer Science focus](#tier-2---option-2---computer-science-focus)
+    - [Tier 2 - Computer Science focus](#tier-2---computer-science-focus)
       - [Instructions:](#instructions-1)
   - [Tier 3 - Interview Prep](#tier-3---interview-prep)
     - [Goal](#goal-2)
