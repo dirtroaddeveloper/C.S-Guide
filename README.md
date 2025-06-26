@@ -85,7 +85,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 ### Goal
 The goal of Tier 2 is to gain substantial hands-on programming practice. You have two options for selecting where you'd prefer to dedicate that practice.
 
-### Tier 2 - Option 2 - Computer Science focus
+### Tier 2 - Computer Science focus
 
 #### Instructions:
 - Proceed through the courses in order
