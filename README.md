@@ -102,6 +102,22 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 | [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                                                                 |        |          |
 | [Introduction to Operating Systems Specialization ](https://www.coursera.org/specializations/codio-introduction-operating-systems)                                                    |        |          |
 | [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)                                                                        |        |          |
+| [Computer Science: University Of Helsinki Programming 1](https://java-programming.mooc.fi/)                                                                                                         |        |          |
+| [Computer Science: University Of Helsinki Programming 2](http://java-programming.mooc.fi/part-2)                                                                                                         |        |          |
+| [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                         |        |          |
+| [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)                                                                                         |        |          |
+| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)                                                                                                                                      |        |          |
+| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)                                                                                                                                     |        |          |
+| [MongoDB Java Developer Path](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
+| [Exercism Java](https://exercism.org/tracks/java)                                                                                                                                                          |        |          |
+| [NeetCode 150](https://neetcode.io/practice)                                                                                                                                                               |        |          |
+| [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)                                                                                                                            |        |          |
+| [100 Challenges on CodinGame](https://www.codingame.com/training)                                                                                                                                          |        |          |
+
+| Reading                                                           | Status | Evidence |
+| :---------------------------------------------------------------- | :----: | :------: |
+| [Oracle's Java Documentation](https://dev.java/learn/)            |        |          |
+| [The Algorithms - Java](https://github.com/TheAlgorithms/Java)    |        |          | --> |
 
 
 | Reading                                                  | Status | Evidence |
