@@ -100,9 +100,8 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 | Courses                                                                                                                                                                                                        | Status | Evidence |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                                                                 |        |          |
-| [CS50's Web Programming with Python and JavaScript ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                    |        |          |
+| [Introduction to Operating Systems Specialization ](https://www.coursera.org/specializations/codio-introduction-operating-systems)                                                    |        |          |
 | [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)                                                                        |        |          |
-| [MongoDB Python  Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path) |        |          |
 
 
 | Reading                                                  | Status | Evidence |
