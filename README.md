@@ -117,56 +117,15 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 | Reading                                                           | Status | Evidence |
 | :---------------------------------------------------------------- | :----: | :------: |
 | [Oracle's Java Documentation](https://dev.java/learn/)            |        |          |
-| [The Algorithms - Java](https://github.com/TheAlgorithms/Java)    |        |          | --> |
-
-
-| Reading                                                  | Status | Evidence |
-| :------------------------------------------------------- | :----: | :------: |
+| [The Algorithms - Java](https://github.com/TheAlgorithms/Java)    |        |          |
 | [W3 Schools C Programming](https://www.w3schools.com/c/) |        |          |
 | [Python](https://docs.python.org/3/)                     |        |          |
-| [SQLBolt](https://sqlbolt.com/)                          |        |          |
+| [SQLBolt](https://sqlbolt.com/)                          |        |          | --> |
 
-
-
-<!-- TOC --><a name="tier-3-interview-prep"></a>
-## Tier 3 - Interview Prep
+## Tier 3 - Develop a Portfolio
 
 ### Goal
-The goal of Tier 3 is to gain skills that will serve you well as you begin a job search. This tier dives deep into data structures and algorithms which will not only help in interviews but will also teach you to create efficient code that will work well on the job. The programming language used for this tier is Java and that choice is intentional as familiarity with a more structured language will inform how you program in whichever language you might be using in the future. 
-
-### Instructions:
-- Proceed through the courses in order
-- Always be practicing. Ideas for practice:
-  - Challenges on [CodinGame](https://www.codingame.com/training) in Java. Note that, for the first time, CodinGame also shows up in the activities below. You should aim to have finished 100 challenges on CodinGame from a mix of difficulty levels before completing this tier.
-  - Math progression on [Khan Academy](https://www.khanacademy.org/math). This is the tier where you'll really notice it if you haven't been building up your math skill - often, understanding an algorithm is more about understanding how it works logically (mathematically) than knowing how to program it.
-  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
-- Take time to read from the reading list
-- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
-    
-| Activity                                                                                                                                                                                                   | Status | Evidence |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Computer Science: University Of Helsinki Programming 1](https://java-programming.mooc.fi/)                                                                                                         |        |          |
-| [Computer Science: University Of Helsinki Programming 2](http://java-programming.mooc.fi/part-2)                                                                                                         |        |          |
-| [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                         |        |          |
-| [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)                                                                                         |        |          |
-| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)                                                                                                                                      |        |          |
-| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)                                                                                                                                     |        |          |
-| [MongoDB Java Developer Path](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
-| [Exercism Java](https://exercism.org/tracks/java)                                                                                                                                                          |        |          |
-| [NeetCode 150](https://neetcode.io/practice)                                                                                                                                                               |        |          |
-| [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)                                                                                                                            |        |          |
-| [100 Challenges on CodinGame](https://www.codingame.com/training)                                                                                                                                          |        |          |
-
-| Reading                                                           | Status | Evidence |
-| :---------------------------------------------------------------- | :----: | :------: |
-| [Oracle's Java Documentation](https://dev.java/learn/)            |        |          |
-| [The Algorithms - Java](https://github.com/TheAlgorithms/Java)    |        |          | --> |
-
-<!-- TOC --><a name="tier-4-develop-a-portfolio"></a>
-## Tier 4 - Develop a Portfolio
-
-### Goal
-The goal of Tier 4 is to polish a portfolio of your best work.
+The goal of Tier 3 is to polish a portfolio of your best work.
 
 ### Instructions:
 - Create an online portfolio of your best work. You can:
