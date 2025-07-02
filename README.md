@@ -131,11 +131,11 @@ The goal of Tier 3 is to polish a portfolio of your best work.
 - If you intend to dive deeper into React or Angular in Tier 5, you may choose to include a few less projects at this point, knowing that you will be adding a few more in that tier.
 - If you need project ideas, ask ChatGPT using very specific prompts for project ideas of the scope you need and using the skills and technologies you'd like to highlight
   
-<!-- TOC --><a name="tier-5-dive-deeper"></a>
+<!-- TOC --><a name="tier-4-dive-deeper"></a>
 ## Tier 4 - Dive Deeper
 
 ### Goal
-The goal of Tier 5 is to enhance your knowledge and abilities by deep diving into areas of particular interest to you. Select one or more focus areas as your interests dictate.
+The goal of Tier 4 is to enhance your knowledge and abilities by deep diving into areas of particular interest to you. Select one or more focus areas as your interests dictate.
 
 **Select any area that interests you for further study:**
 
@@ -169,7 +169,7 @@ You will notice that the resources listed here for React are not courses,YouTube
 | [Jest](https://jestjs.io/)                                                            |        |          |
 | [Storybook](https://storybook.js.org/)                                                |        |          |
 
-### Tier 5 - Focus Area - Mathematics
+### Tier 4 - Focus Area - Mathematics
 
 Note: For this Focus Area, feel free to dive into it in its entirety, or just do a course or two here and there to supplement one of the other focus areas. You will notice that if you start working through the Computer Science Focus Area, from time to time, one of the Mathematics courses from this Focus Area will be listed as a pre-requisite.
 | Courses                                                                                                                               | Status | Evidence |
