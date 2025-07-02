@@ -41,7 +41,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 - Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
   
 | Activity                                                                                                                                                                     | Status | Evidence |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--X--: | :------: |
 | [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)                                                                         |        |          |
 | [The Odin Project Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)                                                                         |        |          |
 | [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |        |          |
