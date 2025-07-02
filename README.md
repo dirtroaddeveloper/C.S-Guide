@@ -12,10 +12,8 @@ Created from P1XTs path. Updated to add some stuff for me to do and to fit me mo
   - [Tier 1 - Web Development Foundation](#tier-1---web-development-foundation)
     - [Goal](#goal)
     - [Instructions:](#instructions)
-  - [Tier 2 - Practice](#tier-2---practice)
-    - [Goal](#goal-1)
-    - [Tier 2 - Computer Science focus](#tier-2---computer-science-focus)
-      - [Instructions:](#instructions-1)
+  - [Tier 2 - Computer Science focus](#tier-2---computer-science-focus)
+    - [Instructions:](#instructions)
   - [Tier 3 - Develop a Portfolio](#tier-3---develop-a-portfolio)
     - [Goal](#goal-3)
     - [Instructions:](#instructions-3)
@@ -76,11 +74,9 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | [CSS Tricks](https://css-tricks.com/guides/)                              |        |          |
 
 
-<!-- TOC --><a name="tier-2-practice"></a>
-## Tier 2 - Practice
 
 ### Goal
-The goal of Tier 2 is to gain substantial hands-on programming practice. You have two options for selecting where you'd prefer to dedicate that practice.
+The goal of Tier 2 is to gain substantial Computer Science skills.
 
 ### Tier 2 - Computer Science focus
 
