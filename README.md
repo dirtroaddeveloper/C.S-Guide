@@ -17,7 +17,7 @@ Created from P1XTs path. Updated to add some stuff for me to do and to fit me mo
   - [Tier 3 - Develop a Portfolio](#tier-3---develop-a-portfolio)
     - [Goal](#goal-3)
     - [Instructions:](#instructions-3)
-  - [Tier 5 - Dive Deeper](#tier-5---dive-deeper)
+  - [Tier 4 - Dive Deeper](#tier-4---dive-deeper)
     - [Goal](#goal-4)
     - [Tier 4 - Focus Area - React](#tier-4---focus-area---react)
       - [Instructions:](#instructions-4)
