@@ -16,18 +16,15 @@ Created from P1XTs path. Updated to add some stuff for me to do and to fit me mo
     - [Goal](#goal-1)
     - [Tier 2 - Computer Science focus](#tier-2---computer-science-focus)
       - [Instructions:](#instructions-1)
-  - [Tier 3 - Interview Prep](#tier-3---interview-prep)
-    - [Goal](#goal-2)
-    - [Instructions:](#instructions-2)
-  - [Tier 4 - Develop a Portfolio](#tier-4---develop-a-portfolio)
+  - [Tier 3 - Develop a Portfolio](#tier-3---develop-a-portfolio)
     - [Goal](#goal-3)
     - [Instructions:](#instructions-3)
   - [Tier 5 - Dive Deeper](#tier-5---dive-deeper)
     - [Goal](#goal-4)
-    - [Tier 5 - Focus Area - React](#tier-5---focus-area---react)
+    - [Tier 4 - Focus Area - React](#tier-4---focus-area---react)
       - [Instructions:](#instructions-4)
-    - [Tier 5 - Focus Area - Mathematics](#tier-5---focus-area---mathematics)
-    - [Tier 5 - Focus Area - Computer Science](#tier-5---focus-area---computer-science)
+    - [Tier 4 - Focus Area - Mathematics](#tier-4---focus-area---mathematics)
+    - [Tier 4 - Focus Area - Computer Science](#tier-4---focus-area---computer-science)
   - [Notes](#notes)
 
 <!-- TOC end -->
@@ -139,14 +136,14 @@ The goal of Tier 3 is to polish a portfolio of your best work.
 - If you need project ideas, ask ChatGPT using very specific prompts for project ideas of the scope you need and using the skills and technologies you'd like to highlight
   
 <!-- TOC --><a name="tier-5-dive-deeper"></a>
-## Tier 5 - Dive Deeper
+## Tier 4 - Dive Deeper
 
 ### Goal
 The goal of Tier 5 is to enhance your knowledge and abilities by deep diving into areas of particular interest to you. Select one or more focus areas as your interests dictate.
 
 **Select any area that interests you for further study:**
 
-### Tier 5 - Focus Area - React
+### Tier 4 - Focus Area - React
 
 You will notice that the resources listed here for React are not courses,YouTube playlists, or podcasts where other people teach you React. This section lists the official docs. This is because:
 - by this point you should be capable of, and consistently, "reading the docs"
@@ -190,7 +187,7 @@ Note: For this Focus Area, feel free to dive into it in its entirety, or just do
                                                                                                       
 
 
-### Tier 5 - Focus Area - Computer Science
+### Tier 4 - Focus Area - Computer Science
 
 Note: This focus area dives a bit deeper into nitty-gritty computer science topics. Feel free to jump around and take whichever courses sound most interesting to you. (Structure and Interpretation of Computer Programs is one of my favorites.) You will, at times, find that a course has a mathematics course pre-requisite - those courses may be found in the Mathematics Focus Area above.
 | Courses                                                                                                                                                                             | Status | Evidence |
